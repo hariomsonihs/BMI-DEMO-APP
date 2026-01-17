@@ -124,9 +124,3 @@ git clone https://github.com/hariomsonihs/BMI-DEMO-APP.git
 ## ⭐ Support
 
 If you like this project, don’t forget to give it a ⭐ on GitHub 😄✨
-
-```
-
-✅ Ab ye **single code block** me hai, aap ek baar me **copy-paste** kar do 💯  
-Aap bolo to main isme **License + Contribution + APK download section** bhi add kar du ✅
-```
