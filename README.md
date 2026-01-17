@@ -81,8 +81,8 @@ BMI Calculator App/
 
 1️⃣ Download / Clone this repository  
 ```bash
-git clone https://github.com/your-username/bmi-calculator-app.git
-
+git clone https://github.com/hariomsonihs/BMI-DEMO-APP.git
+```bash
 2️⃣ Open in Android Studio
 3️⃣ Sync Gradle
 4️⃣ Click ▶ Run
