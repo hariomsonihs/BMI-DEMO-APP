@@ -96,7 +96,7 @@ If you want ✅ I can also make:
 ✅ **App logo icon** ideas  
 ✅ **Proper screenshot layout** for GitHub  
 ✅ A **best repository name + description + tags** for SEO on GitHub
-
+---
 ## 👨‍💻 Developer Details
 
 - **Name:** Hariom  
