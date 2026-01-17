@@ -1,9 +1,3 @@
-Samajh gaya ✅😄
-Aap chahte ho **“How to Run This Project” ko bhi same copy-paste block me include karke** ek hi continuous README code mile (without alag alag break).
-
-✅ Ye lo **FULL README.md ek hi baar me**, properly arranged and **single copy-paste ready**:
-
-````md
 # 🧮 BMI Calculator App (Android)
 
 A simple and modern **BMI Calculator Android App** built using **Android Studio + Java**.  
@@ -130,8 +124,6 @@ git clone https://github.com/hariomsonihs/BMI-DEMO-APP.git
 ## ⭐ Support
 
 If you like this project, don’t forget to give it a ⭐ on GitHub 😄✨
-
----
 
 ```
 
